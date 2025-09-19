@@ -1,0 +1,9 @@
+Guía Práctica de Estudio 03: Solución de Problemas y Algoritmos
+
+Esta guía describe el proceso para resolver problemas informáticos mediante la elaboración de algoritmos correctos y eficientes dentro del ciclo de vida del software. Primero se realiza el análisis del problema para comprender los requisitos del usuario, definir el dominio y evitar ambigüedades. Se identifican los datos de entrada y los resultados de salida que el sistema debe manejar.
+
+En la etapa de diseño se propone y selecciona una solución que transforme las entradas en salidas. A partir de ello se construye el algoritmo: un conjunto ordenado, preciso, definido y finito de pasos que puede aplicarse repetidamente y que debe ser correcto, eficiente y legible. Las variables permiten almacenar datos de entrada, intermedios y de salida para el flujo del algoritmo.
+
+Luego se implementa el algoritmo en un lenguaje de programación y se valida mediante pruebas de escritorio para asegurar que cumple con los objetivos. Este proceso se enmarca en el ciclo de vida del software, que incluye planeación, análisis de requisitos, diseño de estructuras de datos y arquitectura, codificación, pruebas y mantenimiento.
+
+El objetivo de la guía es que el estudiante desarrolle la capacidad de identificar entradas y salidas de un problema, diseñar un algoritmo completo con módulos de entrada, procesamiento y salida, y aplicar principios de ingeniería de software para obtener programas confiables y de calidad.
